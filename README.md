@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlexXz27
+- 👀 I’m interested in FiveM Developing.
+- 🌱 I’m currently learning FiveM Scripting.
+- 📫 I', 16y old.
